@@ -24,3 +24,27 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+#red{
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+#magenta{
+    width: 50px;
+    height: 50px;
+    background: magenta;
+}
+
+#blue{
+    width: 50px;
+    height: 50px;
+    background: blue;
+}
+
+#purple{
+    width: 50px;
+    height: 50px;
+    background: purple;
+}
